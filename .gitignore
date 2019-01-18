@@ -1,0 +1,23 @@
+# OS/IDE generated files #
+##########################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea/
+*.bak
+
+# Build directories #
+#####################
+build/
+debug/
+dist/
+testBB/
+
+# NPM related stuff #
+#####################
+package-lock.json
+node_modules/
