@@ -1,3 +1,5 @@
+>This repository is not actively maintained anymore and is therefore archived.
+
 # BlackboardAPI
 
 [![Build Status](https://dev.azure.com/BrWProjects/BlackboardAPI%20Builds/_apis/build/status/BlackboardAPI%20Builds-CI)](https://dev.azure.com/BrWProjects/BlackboardAPI%20Builds/_build/latest?definitionId=5)
